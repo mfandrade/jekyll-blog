@@ -1,0 +1,4 @@
+{% assign posts = site.posts | where:"orig", page.orig | sort:"path" %}
+{% for post in posts %}
+  <a href="{{ post.url }}" class="page-link {{ post.lang }}">{{ post.lang | upcase }}</a>
+{% endfor %}

@@ -1,0 +1,4 @@
+home: Home
+slogan: Tecnología con algo más a dicer
+description: Escriba una increíble descripción para su sitio acá. Tu puedes editar esta linea en el _config.yml. Ella va aparecer en tu sitio metadata (para resultados de búsqueda de Google) e en la descripción de su feed.xml.
+dateformat: "%d/%m/%Y" # "%-d de %B de %Y"
